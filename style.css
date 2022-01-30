@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(252, 238, 222);
+}
+
+h1 {
+    font-size: 72px;
+    text-align: center;
+    color: chocolate;
+    font-family: 'Cedarville Cursive', cursive;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.picPreview {
+    border-radius: 5%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: chocolate;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+}
+
+.link {
+    text-align: center;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 24px;
+}
