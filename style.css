@@ -13,6 +13,17 @@ h1 {
     margin-top: 0px;
 }
 
+h2 {
+    font-size: 36px;
+    text-align: center;
+    color: chocolate;
+    font-family: 'Cedarville Cursive', cursive;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
 .picPreview {
     border-radius: 5%;
     border-width: 5px;
@@ -28,4 +39,22 @@ h1 {
     text-align: center;
     font-family: 'Cedarville Cursive', cursive;
     font-size: 24px;
+}
+
+.mainImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 5px;
+    border-color: chocolate;
+}
+
+p,
+ul,
+li {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    width: 1000px;
 }
